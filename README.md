@@ -10,7 +10,7 @@ It adopts a scoring mechanism using principles of Game Theory, where in order to
 
 To make the game more visually fancy and fun, the game temporarily uses figures and scenes from <Naruto>, a Japanese ninja cartoon which is also the game authors' favorite. All images and sound effects are fetched from internet, which authors use for game demo ONLY and do not own any copyright for, and the game will never used for commercial publication with.
 
-Author:
+Author:<br>
 Guang XIONG  gx239@nyu.edu<br>
 Ruyu Guan   rg2482@nyu.edu 
 
