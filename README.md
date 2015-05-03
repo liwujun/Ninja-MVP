@@ -12,5 +12,6 @@ To make the game more visually fancy and fun, the game temporarily uses figures 
 
 Author:
 Guang XIONG  gx239@nyu.edu
+
 Ruyu Guan   rg2482@nyu.edu 
 
