@@ -1,7 +1,9 @@
 Ninja_MVP
 =========
 
-It's a action-based multi-player shooting game using [Leap Motion](https://www.leapmotion.com/) to track a player's hand movements and gestures for control and adopts a scoring rules using principles of [Game Theory](http://en.wikipedia.org/wiki/Game_theory). It implements with Python 2.7 and [Pygame](http://pygame.org/news.html) 1.9.1
+It's a action-based multi-player shooting game using [Leap Motion](https://www.leapmotion.com/) to track a player's hand movements and gestures for control and adopts a scoring rules using principles of [Game Theory](http://en.wikipedia.org/wiki/Game_theory). 
+
+It is implemented with Python 2.7 and [Pygame](http://pygame.org/news.html) 1.9.1, also supports keyboard control.
 
 The detailed scoring rules are in order to get highest score, a player can, depending on the best strategy at the moment, choose to:<br>
 1) shoot simple target to get base score;<br>
