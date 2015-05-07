@@ -1,4 +1,4 @@
-Ninja_MVP
+Ninja-MVP
 =========
 
 It's a action-based multi-player shooting game using [Leap Motion](https://www.leapmotion.com/) to track a player's hand movements and gestures for control (keyboard also supported) and adopts a scoring rules with elements of [Game Theory](http://en.wikipedia.org/wiki/Game_theory). 
