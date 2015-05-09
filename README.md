@@ -26,7 +26,7 @@ To make the game more visually fancy and fun, the game temporarily uses figures 
 
 ## Snapshots<br>
 
-![Alt text](./snapshot/game-interface.jpg?raw=true)![Alt text](./snapshot/nyu-game-jam.jpg?raw=true)![Alt text](./snapshot/present-at-microsoft.jpg?raw=true)![Alt text](./snapshot/prototyping.jpg?raw=true)
+![Alt text](./snapshot/game-interface.jpg?raw=true)![Alt text]![Alt text](./snapshot/present-at-microsoft.jpg?raw=true)![Alt text](./snapshot/prototyping.jpg?raw=true)
 
 ## Author:<br>
 Guang XIONG  gx239@nyu.edu<br>
