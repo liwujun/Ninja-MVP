@@ -3,6 +3,8 @@ Ninja-MVP
 
 It's a action-based multi-player shooting game using [Leap Motion](https://www.leapmotion.com/) to track a player's hand movements and gestures for control (keyboard also supported) and adopts a scoring rules with elements of [Game Theory](http://en.wikipedia.org/wiki/Game_theory). 
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/lw06ZFgtz50)
+
 The detailed scoring rules are in order to get highest score, a player can, depending on the best strategy at the moment, choose to:<br>
 1) shoot simple target to get base score;<br>
 2) shoot complex target to get much higher score by shooting it together with simultaneously with another player;<br>
