@@ -1,10 +1,11 @@
 Ninja-MVP
 =========
 
+## Video Demo<br>
 
 [![demo video,pls contact Author](http://img.youtube.com/vi/lw06ZFgtz50/0.jpg)](http://www.youtube.com/watch?v=lw06ZFgtz50)
 
-![Alt text](./snapshot/game-interface.jpg?raw=true "Game Interface")
+
 
 
 It's a action-based multi-player shooting game using [Leap Motion](https://www.leapmotion.com/) to track a player's hand movements and gestures for control (keyboard also supported) and adopts a scoring rules with elements of [Game Theory](http://en.wikipedia.org/wiki/Game_theory). 
@@ -23,7 +24,11 @@ Enjoy~!
 ## Disclaimer<br>
 To make the game more visually fancy and fun, the game temporarily uses figures and scenes from [Naruto](http://en.wikipedia.org/wiki/Naruto), a Japanese ninja cartoon which is also the game authors' favorite. All images and sound effects are fetched from internet, which authors use for game demo ONLY and do not own any copyright for, and the game will never used for commercial publication with.
 
-Author:<br>
+## Snapshots<br>
+
+![Alt text](./snapshot/game-interface.jpg?raw=true)![Alt text](./snapshot/nyu-game-jam.jpg?raw=true)![Alt text](./snapshot/present-at-microsoft.jpg?raw=true)![Alt text](./snapshot/prototyping.jpg?raw=true)
+
+## Author:<br>
 Guang XIONG  gx239@nyu.edu<br>
 Ruyu Guan   rg2482@nyu.edu 
 
