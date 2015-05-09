@@ -24,9 +24,8 @@ Enjoy~!
 ## Disclaimer<br>
 To make the game more visually fancy and fun, the game temporarily uses figures and scenes from [Naruto](http://en.wikipedia.org/wiki/Naruto), a Japanese ninja cartoon which is also the game authors' favorite. All images and sound effects are fetched from internet, which authors use for game demo ONLY and do not own any copyright for, and the game will never used for commercial publication with.
 
-## Snapshots<br>
-
-![Alt text](./snapshot/game-interface.jpg?raw=true)![Alt text](./snapshot/present-at-microsoft.jpg?raw=true)![Alt text](./snapshot/prototyping.jpg?raw=true)
+## Production<br>
+![Alt text](./snapshot/present-at-microsoft.jpg?raw=true)![Alt text](./snapshot/prototyping.jpg?raw=true)
 
 ## Author<br>
 Guang XIONG  gx239@nyu.edu<br>
